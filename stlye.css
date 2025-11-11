@@ -1,0 +1,43 @@
+.flex {
+    display: flex;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+table, td, th{
+    border: 1px black solid;
+    padding: 5px;
+    text-align:center;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+.naranja {
+    background-color: orange;
+}
+
+.verde {
+    background-color: green;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.justify {
+    justify-content: center;
+}
+
+.gap {
+    gap: 30px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
