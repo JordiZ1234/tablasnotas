@@ -41,3 +41,13 @@ th {
 body {
     font-family: 'Courier New', Courier, monospace;
 }
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+h1 {
+    border-right: 1px black solid;
+    padding: 10px;
+}
